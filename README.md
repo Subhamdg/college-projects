@@ -1,4 +1,4 @@
 # college-projects
-#Author="Subham Dasgupta"
-#Title="Employee Management system"
-#Programming_Languegae="C"
+/*Author="Subham Dasgupta"
+  title="Employee Management system"
+  programming_language="C" */
