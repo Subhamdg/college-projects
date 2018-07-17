@@ -18,7 +18,7 @@ struct Employ                                      //structure to save data of e
 };                                                  //end of structure
 int display(void);
 int display1(void);
-int sort(struct Employ e[],int n);
+int input(struct Employ e[],int n);
 int sort(struct Employ e[],int n);
 int display3(struct Employ e[],int n);
 
